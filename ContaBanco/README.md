@@ -1,4 +1,8 @@
-## Getting Started
+---
+title: "Conta Terminal"
+output: html.document
+bibliography: rmarkdown.bib 
+---
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
