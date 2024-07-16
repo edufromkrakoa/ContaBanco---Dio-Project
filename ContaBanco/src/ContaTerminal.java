@@ -23,7 +23,7 @@ public class ContaTerminal {
 
         System.out.println("Nos informe o numero da sua conta: ");
         numero = scanner.nextInt();
-
+        
         System.out.println("Nos informe o saldo inicial da conta: ");
         saldo = scanner.nextDouble();
 
